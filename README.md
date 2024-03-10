@@ -31,7 +31,7 @@ These event detection labels are based on the BIO format. The total number of la
 
 
 <p align="center">
-<img src="https://github.com/Sameer-Ahmed7/Event-Detection/blob/main/Images/event_detection.png" width="50%" height="50%" >
+<img src="https://github.com/Sameer-Ahmed7/Event-Detection/blob/main/assets/event_detection.png" width="50%" height="50%" >
 </p>
 
 
