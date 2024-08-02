@@ -4,7 +4,7 @@ Event Detection
 
 
 # Overview:
-This repository is dedicated to the event detection task, which constitutes my **Homework 1** for the course **MULTILINGUAL NATURAL LANGUAGE PROCESSING**, part of my Master’s in AI and Robotics at [Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home). The project explores three different approaches to event detection:
+This repository is dedicated to the event detection task, which constitutes my **Homework 1** for the course **MULTILINGUAL NATURAL LANGUAGE PROCESSING**, taught by Professor [Roberto Navigli](https://www.diag.uniroma1.it/navigli/), as part of my Master’s in AI and Robotics at [Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home). The project explores three different approaches to event detection:
 
 1. **Bidirectional LSTM (BiLSTM) without pre-trained word embeddings:** Examines the baseline capabilities of BiLSTM in event detection.
 2. **Bidirectional LSTM (BiLSTM) with pre-trained word embeddings:** Investigates the impact of leveraging pre-trained embeddings on the model's performance.
